@@ -1,1 +1,2 @@
 bet_id,date_placed,event_name,event_date,fighter_red,fighter_blue,pick,odds,stake,kelly_fraction,model_probability,status,result,profit,roi
+1,2025-06-27,UFC Fight Night,2025-06-27,AJ Cunningham,AJ Dobson,AJ Dobson,1.8,5.0,4,0.5332296677488716,open,,0,0
