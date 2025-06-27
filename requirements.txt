@@ -9,4 +9,4 @@ scikit-learn>=1.2.2
 protobuf==3.20.0
 beautifulsoup4==4.12.2
 requests==2.31.0        
-lxml==4.9.4              
+lxml==4.9.2
