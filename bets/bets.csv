@@ -1,1 +1,3 @@
 bet_id,date_placed,event_name,event_date,fighter_red,fighter_blue,pick,odds,stake,kelly_fraction,model_probability,status,result,profit,roi
+1,2025-07-31,UFC Fight Night: Taira vs. Park,2025-07-31,Tatsuro Taira,HyunSung Park,HyunSung Park,3.6,8.35,4.9,0.7639021985315967,open,,0,0
+2,2025-07-31,UFC Fight Night: Taira vs. Park,2025-07-31,Mateusz Rebecki,Chris Duncan,Mateusz Rebecki,1.44,8.35,4.9,0.8175301889130293,open,,0,0
